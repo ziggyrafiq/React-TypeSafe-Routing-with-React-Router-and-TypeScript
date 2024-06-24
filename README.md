@@ -1,7 +1,7 @@
 # React-TypeSafe-Routing-with-React-Router-and-TypeScript
  Practical examples and best practices for type-safe routing in React using React Router and TypeScript
 
-**[Article published on C# Corner click here to read this article](https://www.c-sharpcorner.com/article/type-safe-routing-in-react-with-react-router-and-typescript/)
+**[Article published on C# Corner click here to read this article](https://www.c-sharpcorner.com/article/type-safe-routing-in-react-with-react-router-and-typescript/)**
 # Installation
 
 Clone this repository:
